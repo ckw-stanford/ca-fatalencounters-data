@@ -8,3 +8,11 @@ These are incident and victim datasets that document African Americans killed th
 Burghart, D.B. (2020). Fatal Encounters: 
 A step toward creating an impartial, comprehensive and searchable national database of people killed during interactions with police [data file and codebook]. [https://fatalencounters.org/](https://fatalencounters.org/)
 
+## CA-Fatal-Encounters-final.csv headings
+
+
+## Incident_Schema.json
+This is the schema to be used with OpenRefine to populate Wikidata significant entries based on the CA-Fatal-Encounters-final.csv.csv above.
+
+## Victim_Schema.json
+This is the schema to be used with OpenRefine to populate Wikidata victim entries based on the CA-Fatal-Encounters-final.csv.csv above.
