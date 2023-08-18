@@ -9,7 +9,7 @@ Burghart, D.B. (2020). Fatal Encounters:
 A step toward creating an impartial, comprehensive and searchable national database of people killed during interactions with police [data file and codebook]. [https://fatalencounters.org/](https://fatalencounters.org/)
 
 ## CA-Fatal-Encounters-final.csv headings
-- **unique ID**: this is the index number used to disambiguate the victims within the Know Systemic Racism Project.
+- **unique ID**: this is the index number for Fatal Encounter records used to disambiguate the victims within the Know Systemic Racism Project.
 - **full name**: the full name of the victim include first name, last name, middle name/initial, and suffix
 - **victim wikidata page qid**: the wikidata identifier for victim's page - this identifier is based on the victim's full name
 - **significant event name**: this field was created to link to another wikidata page. the naming conventing is 'death of [victim's full name]' example: death of Troy Smith
