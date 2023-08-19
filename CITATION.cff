@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it."
+authors:
+  - family-names: Williams
+    given-names: Chloe
+    orcid: https://orcid.org/0009-0006-0472-653X
+  - family-names: Coleman
+    given-names: Catherine Nicole
+    orcid: https://orcid.org/0000-0002-3360-1975
+  - family-names: Colmenares
+    given-names: Anabelle
+    orcid:
+title: "Fatal Encounters with Law Enforcement Agencies in California with African Americans."
+version: 1.1
+doi: 10.25740/yp736bs8569
+date-released: 2023-08-18
